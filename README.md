@@ -1,7 +1,6 @@
 ## 👋 Hi there, I'm Manoj Padmanabha
 
 🎓 I'm currently a Master's student at **SRH Hochschule Heidelberg**, Germany (March 2024 – 2026).  
-💼 Working as a **Full Stack Developer** at **DeepInsightsX**, where I also manage cloud deployments using **GitHub Actions** and **GCP**.
 
 ---
 
