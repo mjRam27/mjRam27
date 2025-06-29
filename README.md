@@ -28,4 +28,4 @@
 📫 **Let’s Connect**  
 You can reach me at: `mjgowda27@gmail.com`
 
-🌐 [LinkedIn](www.linkedin.com/in/manoj-padmanabha-4280411b7) • [GitHub](https://github.com/mjRam27)
+🌐 [LinkedIn][linkedin.com/in/manoj-padmanabha-4280411b7](https://www.linkedin.com/in/manoj-padmanabha-4280411b7) • [GitHub](https://github.com/mjRam27)
