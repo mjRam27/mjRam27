@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Manoj Padmanabha
 
 🎓 I'm currently a Master's student at **SRH Hochschule Heidelberg**, Germany (March 2024 – 2026).  
-
+💼 Currently interning as a Full-Stack AI Engineer at DeepinsightsX, building scalable AI-driven web apps.
 ---
 
 ## 💻 Tech Stack & Tools
