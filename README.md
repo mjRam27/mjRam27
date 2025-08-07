@@ -28,5 +28,5 @@
 You can reach me at: `mjgowda27@gmail.com`
 
 - 🔗 LinkedIn: [linkedin.com/in/manoj-padmanabha-4280411b7](https://www.linkedin.com/in/manoj-padmanabha-4280411b7)
-- 💻 GitHub: [github.com/mjRam27](https://github.com/mjRam27)
+- 💻 Portfolio: [manojpadmanabha.de](https://manojpadmanabha.de)
 
